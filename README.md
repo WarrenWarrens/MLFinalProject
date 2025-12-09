@@ -5,7 +5,7 @@
 
 --- 
 
-🌐 Video Demo: Coming soon...
+🌐 [Video Demo](https://youtu.be/SWqyG_w-7xw?si=6Kp26WjzE9uZp1ha)
 
 ## 📝 Overview
 This project uses a Long Short-Term Memory (LSTM) neural network to predict demand for tech jobs in Canada in 2026. The model is trained on monthly job vacancy rate data from the <i>Statistics Canada</i> Job Vacancy and Wage Survey (JVWS). The data spans from 2015 to 2025, and our model learns job market patterns to make predictions.
